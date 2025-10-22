@@ -1,0 +1,6 @@
+@MiprimerApi_HostAddress = http://localhost:5293
+
+GET {{MiprimerApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
